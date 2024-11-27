@@ -1,5 +1,4 @@
 <?xml version="1.0"?>
-<!-- Default highlighting used by MainDab | Updated Feb 7 2023 -->
 <!-- well actually all the colours were just taken from Roblox Studio's dark theme except I changed it slightly (shhh don't tell ANYONE!) -->
 
 <SyntaxDefinition name="Lua" extensions=".lua" xmlns="http://icsharpcode.net/sharpdevelop/syntaxdefinition/2008">
