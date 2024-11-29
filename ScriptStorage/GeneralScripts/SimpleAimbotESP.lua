@@ -1,5 +1,4 @@
 -- Simple Aimbot and ESP
--- https://github.com/MainDabRblx/ProjectDab/blob/master/!ScriptHubImg/RobloxPlayerBeta_qfGt0xLT9L-min.png?raw=true
 -- Gui to Lua
 -- Version: 3.2
 
