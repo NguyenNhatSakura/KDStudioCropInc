@@ -1,5 +1,4 @@
 -- Fling people as much as you wish, working as of 2021.
--- https://i.ytimg.com/vi/T71DSXOsI50/hqdefault.jpg
 
 
 spawn(function()
