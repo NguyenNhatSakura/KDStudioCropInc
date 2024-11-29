@@ -1,5 +1,4 @@
 -- Audio Logger made by bit8bit@v3rm. Works in all games.
--- https://github.com/MainDabRblx/ProjectDab/blob/master/!ScriptHubImg/RobloxPlayerBeta_lotrV6ma4r-min.png?raw=true
 aa = game:GetObjects("rbxassetid://01997056190")[1]
 aa.Parent = game.CoreGui
 wait(0.2)
