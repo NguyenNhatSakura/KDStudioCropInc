@@ -1,5 +1,4 @@
 -- Simple ESP displaying each player's body parts.
--- https://github.com/MainDabRblx/ProjectDab/blob/master/roblox.png?raw=true
 local color = BrickColor.new(50,0,250)
 local transparency = .8
 
