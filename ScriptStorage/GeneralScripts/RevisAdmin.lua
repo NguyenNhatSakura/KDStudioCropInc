@@ -1,5 +1,4 @@
 -- A much more lightweight Roblox command script.
--- https://i.ytimg.com/vi/cWL39BDsEDA/hqdefault.jpg
  
 -- Credits to infinite yield, harkinian, dex creators
  
