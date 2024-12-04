@@ -1,5 +1,4 @@
 -- Hop to another server.
--- https://github.com/MainDabRblx/ProjectDab/blob/master/roblox.png?raw=true
 local PlaceID = game.PlaceId
 local AllIDs = {}
 local foundAnything = ""

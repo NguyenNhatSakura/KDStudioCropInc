@@ -1,5 +1,4 @@
 -- Press "E" to fly.
--- https://github.com/MainDabRblx/ProjectDab/blob/master/!ScriptHubImg/RobloxPlayerBeta_uhFMSjQiHr-min.png?raw=true
 
 repeat wait()
    until game.Players.LocalPlayer and game.Players.LocalPlayer.Character and game.Players.LocalPlayer.Character:findFirstChild("Torso") and game.Players.LocalPlayer.Character:findFirstChild("Humanoid")

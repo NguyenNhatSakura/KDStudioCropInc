@@ -1,5 +1,4 @@
 -- Dex Explorer, used to see what's inside games. Decompiling not supported.
--- https://github.com/MainDabRblx/ProjectDab/blob/master/!ScriptHubImg/33fc37f7e2c3bffb4d5fbb81ef8d32e8.png?raw=true
 CreateGui = function()
 	local NewGuiPart1 = Instance.new("ScreenGui")
 	local NewGuiPart2 = Instance.new("Frame")

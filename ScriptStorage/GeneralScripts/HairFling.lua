@@ -1,5 +1,5 @@
 -- lol fling spark_vip on roblox pls
--- https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/roblox.png
+
 for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
 if v.ClassName == "Accessory" then v.Parent = workspace
 end
