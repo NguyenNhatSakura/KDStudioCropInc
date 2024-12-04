@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cover\\source\\repos\\NguyenNhat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76C16931-A25B-49D6-A78E-B00DB9ACCC27}|NguyenNhat\\NguyenNhat.csproj|c:\\users\\cover\\source\\repos\\NguyenNhat\\NguyenNhat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76C16931-A25B-49D6-A78E-B00DB9ACCC27}|NguyenNhat\\NguyenNhat.csproj|solutionrelative:NguyenNhat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C16931-A25B-49D6-A78E-B00DB9ACCC27}|NguyenNhat\\NguyenNhat.csproj|C:\\Users\\cover\\source\\repos\\NguyenNhat\\NguyenNhat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C16931-A25B-49D6-A78E-B00DB9ACCC27}|NguyenNhat\\NguyenNhat.csproj|solutionrelative:NguyenNhat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|NguyenNhat||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C16931-A25B-49D6-A78E-B00DB9ACCC27}|NguyenNhat\\NguyenNhat.csproj|C:\\Users\\cover\\source\\repos\\NguyenNhat\\NguyenNhat\\roundedform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C16931-A25B-49D6-A78E-B00DB9ACCC27}|NguyenNhat\\NguyenNhat.csproj|solutionrelative:NguyenNhat\\roundedform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C16931-A25B-49D6-A78E-B00DB9ACCC27}|NguyenNhat\\NguyenNhat.csproj|C:\\Users\\cover\\source\\repos\\NguyenNhat\\NguyenNhat\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C16931-A25B-49D6-A78E-B00DB9ACCC27}|NguyenNhat\\NguyenNhat.csproj|solutionrelative:NguyenNhat\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NguyenNhat",
+              "DocumentMoniker": "C:\\Users\\cover\\source\\repos\\NguyenNhat\\NguyenNhat\\NguyenNhat.csproj",
+              "RelativeDocumentMoniker": "NguyenNhat\\NguyenNhat.csproj",
+              "ToolTip": "C:\\Users\\cover\\source\\repos\\NguyenNhat\\NguyenNhat\\NguyenNhat.csproj*",
+              "RelativeToolTip": "NguyenNhat\\NguyenNhat.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-30T21:18:56.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoundedForm.cs",
+              "DocumentMoniker": "C:\\Users\\cover\\source\\repos\\NguyenNhat\\NguyenNhat\\RoundedForm.cs",
+              "RelativeDocumentMoniker": "NguyenNhat\\RoundedForm.cs",
+              "ToolTip": "C:\\Users\\cover\\source\\repos\\NguyenNhat\\NguyenNhat\\RoundedForm.cs",
+              "RelativeToolTip": "NguyenNhat\\RoundedForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T01:05:59.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\cover\\source\\repos\\NguyenNhat\\NguyenNhat\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "NguyenNhat\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\cover\\source\\repos\\NguyenNhat\\NguyenNhat\\Form1.Designer.cs",
+              "RelativeToolTip": "NguyenNhat\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANUAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:58:02.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\cover\\source\\repos\\NguyenNhat\\NguyenNhat\\Form1.cs",
+              "RelativeDocumentMoniker": "NguyenNhat\\Form1.cs",
+              "ToolTip": "C:\\Users\\cover\\source\\repos\\NguyenNhat\\NguyenNhat\\Form1.cs",
+              "RelativeToolTip": "NguyenNhat\\Form1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:47:23.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cover\\source\\repos\\NguyenNhat\\NguyenNhat\\Form1.cs",
+              "RelativeDocumentMoniker": "NguyenNhat\\Form1.cs",
+              "ToolTip": "C:\\Users\\cover\\source\\repos\\NguyenNhat\\NguyenNhat\\Form1.cs [Design]",
+              "RelativeToolTip": "NguyenNhat\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:40:13.885Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

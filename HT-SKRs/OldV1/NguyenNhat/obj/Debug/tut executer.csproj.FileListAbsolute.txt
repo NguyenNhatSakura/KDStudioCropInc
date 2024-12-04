@@ -1,0 +1,12 @@
+C:\Users\cover\source\repos\NguyenNhat\NguyenNhat\bin\Debug\NguyenNhat.exe.config
+C:\Users\cover\source\repos\NguyenNhat\NguyenNhat\bin\Debug\NguyenNhat.exe
+C:\Users\cover\source\repos\NguyenNhat\NguyenNhat\bin\Debug\NguyenNhat.pdb
+C:\Users\cover\source\repos\NguyenNhat\NguyenNhat\bin\Debug\FastColoredTextBox.dll
+C:\Users\cover\source\repos\NguyenNhat\NguyenNhat\obj\Debug\NguyenNhat.csproj.AssemblyReference.cache
+C:\Users\cover\source\repos\NguyenNhat\NguyenNhat\obj\Debug\NguyenNhat.Form1.resources
+C:\Users\cover\source\repos\NguyenNhat\NguyenNhat\obj\Debug\NguyenNhat.Properties.Resources.resources
+C:\Users\cover\source\repos\NguyenNhat\NguyenNhat\obj\Debug\NguyenNhat.csproj.GenerateResource.cache
+C:\Users\cover\source\repos\NguyenNhat\NguyenNhat\obj\Debug\NguyenNhat.csproj.CoreCompileInputs.cache
+C:\Users\cover\source\repos\NguyenNhat\NguyenNhat\obj\Debug\tut exec.EFC24428.Up2Date
+C:\Users\cover\source\repos\NguyenNhat\NguyenNhat\obj\Debug\NguyenNhat.exe
+C:\Users\cover\source\repos\NguyenNhat\NguyenNhat\obj\Debug\NguyenNhat.pdb

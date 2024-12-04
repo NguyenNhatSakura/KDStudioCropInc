@@ -1,0 +1,13 @@
+C:\Users\NguyenNhat\Documents\NguyenNhat\NguyenNhat\bin\Debug\NguyenNhat.exe.config
+C:\Users\NguyenNhat\Documents\NguyenNhat\NguyenNhat\bin\Debug\NguyenNhat.exe
+C:\Users\NguyenNhat\Documents\NguyenNhat\NguyenNhat\bin\Debug\NguyenNhat.pdb
+C:\Users\NguyenNhat\Documents\NguyenNhat\NguyenNhat\obj\Debug\NguyenNhat.csproj.AssemblyReference.cache
+C:\Users\NguyenNhat\Documents\NguyenNhat\NguyenNhat\obj\Debug\NguyenNhat.Properties.Resources.resources
+C:\Users\NguyenNhat\Documents\NguyenNhat\NguyenNhat\obj\Debug\NguyenNhat.csproj.GenerateResource.cache
+C:\Users\NguyenNhat\Documents\NguyenNhat\NguyenNhat\obj\Debug\NguyenNhat.csproj.CoreCompileInputs.cache
+C:\Users\NguyenNhat\Documents\NguyenNhat\NguyenNhat\obj\Debug\NguyenNhat.csproj.Up2Date
+C:\Users\NguyenNhat\Documents\NguyenNhat\NguyenNhat\obj\Debug\NguyenNhat.exe
+C:\Users\NguyenNhat\Documents\NguyenNhat\NguyenNhat\obj\Debug\NguyenNhat.pdb
+C:\Users\NguyenNhat\Documents\NguyenNhat\NguyenNhat\bin\Debug\ScintillaNET.dll
+C:\Users\NguyenNhat\Documents\NguyenNhat\NguyenNhat\bin\Debug\ScintillaNET.xml
+C:\Users\NguyenNhat\Documents\NguyenNhat\NguyenNhat\obj\Debug\HTSKR.Form1.resources
