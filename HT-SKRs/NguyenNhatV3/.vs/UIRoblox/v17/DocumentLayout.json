@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\NguyenNhat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5229AC-3E24-4EE5-8CF5-A59CBF8C38A6}|NguyenNhat\\NguyenNhat.csproj|c:\\users\\admin\\desktop\\NguyenNhat\\NguyenNhat\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A5229AC-3E24-4EE5-8CF5-A59CBF8C38A6}|NguyenNhat\\NguyenNhat.csproj|solutionrelative:NguyenNhat\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5229AC-3E24-4EE5-8CF5-A59CBF8C38A6}|NguyenNhat\\NguyenNhat.csproj|C:\\Users\\Admin\\Desktop\\NguyenNhat\\NguyenNhat\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5229AC-3E24-4EE5-8CF5-A59CBF8C38A6}|NguyenNhat\\NguyenNhat.csproj|solutionrelative:NguyenNhat\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\NguyenNhat\\NguyenNhat\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NguyenNhat\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\NguyenNhat\\NguyenNhat\\MainWindow.xaml.cs",
+              "RelativeToolTip": "NguyenNhat\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:58:16.316Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\NguyenNhat\\NguyenNhat\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "NguyenNhat\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\NguyenNhat\\NguyenNhat\\MainWindow.xaml",
+              "RelativeToolTip": "NguyenNhat\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T09:58:21.609Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
